@@ -1,0 +1,22 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Score tennis de table</string>
+
+    <string name="send">Send</string>
+    <string name="not_connected">"Vous n'êtes pas connecté à un autre appareil"</string>
+    <string name="bt_not_enabled_leaving">"Le Bluetooth n'est pas disponible."</string>
+    <string name="title_connecting">Connection...</string>
+    <string name="title_connected_to">Connecté à <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">Non connecté</string>
+
+    <string name="scanning">"Recherche d'appareils compatibles ..."</string>
+    <string name="select_device">"sélectionnez un appareil à connecter"</string>
+    <string name="none_paired">"Aucun appareil n'a été jumelé"</string>
+    <string name="none_found">Aucun appareil trouvé</string>
+    <string name="title_paired_devices">appareils jumelés</string>
+    <string name="title_other_devices">Autres appareils disponibles</string>
+    <string name="button_scan">"Recherche d'appareils"</string>
+
+    <string name="secure_connect">Se connecter à un appareil</string>
+    <string name="insecure_connect">Se connecter à un appareil - Insecure</string>
+    <string name="discoverable">Etre détectable Bluetooth</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffcc80</color>
+    <color name="colorPrimaryDark">#ff7043</color>
+    <color name="colorAccent">#ff5252</color>
+    <!--
+mon commentaire
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+-->
+</resources>
